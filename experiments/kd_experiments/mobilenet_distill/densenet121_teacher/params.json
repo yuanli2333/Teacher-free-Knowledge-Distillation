@@ -1,0 +1,17 @@
+{
+    "model_version": "mobilenet_v2_distill",
+    "subset_percent": 1.0,
+    "augmentation": "yes",
+    "teacher": "densenet121",
+    "alpha": 0.95,
+    "temperature": 20,
+    "learning_rate": 0.1,
+    "batch_size": 128,
+    "num_epochs": 200,
+    "dropout_rate": 0.5,
+    "save_summary_steps": 100,
+    "num_workers": 4,
+    "anchor_num": 10,
+    "dataset": "cifar100"
+}
+

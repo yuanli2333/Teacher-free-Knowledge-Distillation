@@ -1,0 +1,16 @@
+{
+    "model_version": "resnext101",
+    "subset_percent": 1.0,
+    "augmentation": "yes",
+    "teacher": "none",
+    "reg_temperature": 40,
+    "reg_alpha": 0.5,
+    "learning_rate": 1e-1,
+    "batch_size": 64,
+    "num_epochs": 200,
+    "dropout_rate": 0.5,
+    "num_channels": 32,
+    "batch_mean": 1,
+    "num_workers": 4,
+    "dataset": "cifar100"
+}
