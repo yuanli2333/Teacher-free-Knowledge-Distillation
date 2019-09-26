@@ -12,7 +12,7 @@ For example, ResNeXt101-32x8d is a powerful model with 88.79M parameters and 16.
 
 Clone this repository:
 ```
-git clone 
+git clone https://github.com/yuanli2333/Teacher-free-Knowledge-Distillation.git
 ```
 
 ### 1.1 Environment
