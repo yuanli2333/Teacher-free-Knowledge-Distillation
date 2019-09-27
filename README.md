@@ -196,3 +196,13 @@ Tf-KD regularization and LSR experiment results on CIFAR100:
 
 
 
+### Reference
+If you find this repo useful, please cite:
+```
+@article{{Yuan2019RevisitKD,
+  title={Revisit Knowledge Distillation: a Teacher-free Framework},
+  author={Li Yuan and Francis E.H.Tay and Guilin Li and Tao Wang and Jiashi Feng},
+  journal={arXiv preprint arXiv:1909.11723},
+  year={2019}
+}
+```
