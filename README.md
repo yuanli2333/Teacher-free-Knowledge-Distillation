@@ -1,5 +1,5 @@
 # Teacher-free-Knowledge-Distillation
-## Implementation for our paper: Revisiting Knowledge Distillation via Label Smoothing Regularization, [arxiv](https://arxiv.org/abs/1909.11723)
+## Implementation for our paper: Revisiting Knowledge Distillation via Label Smoothing Regularization, [arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Revisit+Knowledge+Distillation%3A+a+Teacher-free+Framework+Yuan&btnG=)
 
 Our work suggests that: when a neural network is too powerful to find stronger teacher models, or computation resource is limited to train teacher models, "self-training" or "manually-designed regularization" can be applied. 
 
