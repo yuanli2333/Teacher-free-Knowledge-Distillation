@@ -199,10 +199,11 @@ Tf-KD regularization and LSR experiment results on CIFAR100:
 ### Reference
 If you find this repo useful, please consider citing:
 ```
-@article{yuan2019revisit,
-  title={Revisit Knowledge Distillation: a Teacher-free Framework},
+@inproceedings{yuan2020revisiting,
+  title={Revisiting Knowledge Distillation via Label Smoothing Regularization},
   author={Yuan, Li and Tay, Francis EH and Li, Guilin and Wang, Tao and Feng, Jiashi},
-  journal={arXiv preprint arXiv:1909.11723},
-  year={2019}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3903--3911},
+  year={2020}
 }
 ```
