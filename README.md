@@ -34,7 +34,7 @@ Please do not use other versions of pytorch, otherwise, some experiment results 
 For CIFAR100 and CIFAR10, our codes will download the datasets automatically. For Tiny-ImageNet, you should download and put in the dir: "data/". The follow instruction and commands are for CIFAR100.
 
 ## 2. Train baseline models
-You can skip this step by using our pre-trained models in [here](https://drive.google.com/open?id=1TMZ-TSbB_OanKpXupIqvYdYpw8p7tVti). Download and unzip to: experiments/pretrained_teacher_models/
+You can skip this step by using our pre-trained models in [here](https://drive.google.com/file/d/17qS3ULCkO0h5mjDoz-db1T7S5HqwGdgI/view?usp=sharing). Download and unzip to: experiments/pretrained_teacher_models/
 
 
 Use ''--model_dir'' to specify the directory of "parameters", model saving and log saving.
