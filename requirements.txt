@@ -1,6 +1,6 @@
 absl-py==0.4.1
 astor==0.7.1
-certifi==2018.8.24
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 ConfigArgParse==0.14.0
