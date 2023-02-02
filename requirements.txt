@@ -29,4 +29,4 @@ torchtext==0.4.0
 torchvision==0.4.0a0+9232c4a
 tqdm==4.30.0
 urllib3==1.26.5
-Werkzeug==0.15.4
+Werkzeug==0.15.5
